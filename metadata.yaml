@@ -1,0 +1,30 @@
+_repo: The-Race-of-the-Swift_56430
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bull, Charles Livingston
+    birthdate: &id001 1874
+    deathdate: 1932
+    gutenberg_agent_id: '9742'
+    url: http://www.gutenberg.org/2009/agents/9742
+creator:
+  author:
+    agent_name: Litsey, Edwin Carlile
+    alias: Litsey, E. Carl (Edwin Carlile)
+    birthdate: *id001
+    deathdate: 1970
+    gutenberg_agent_id: '33301'
+    url: http://www.gutenberg.org/2009/agents/33301
+description: ''
+gutenberg_issued: '2018-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Race of the Swift
+url: http://www.gutenberg.org/ebooks/56430
